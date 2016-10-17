@@ -36,7 +36,7 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-	gs.addInfoMessage("Table updated");
+	gs.addInfoMessage("Table has been updated!");
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -45,7 +45,7 @@
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>9bad04154fe2e2402ce07db28110c7f2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Alert on update</sys_name>
         <sys_overrides/>
         <sys_package display_value="ea git" source="x_snc_ea_git">4f4b84dd4fa2e2402ce07db28110c7aa</sys_package>
@@ -54,7 +54,7 @@
         <sys_scope display_value="ea git">4f4b84dd4fa2e2402ce07db28110c7aa</sys_scope>
         <sys_update_name>sys_script_9bad04154fe2e2402ce07db28110c7f2</sys_update_name>
         <sys_updated_by>ea</sys_updated_by>
-        <sys_updated_on>2016-10-17 14:41:33</sys_updated_on>
+        <sys_updated_on>2016-10-17 14:43:14</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
