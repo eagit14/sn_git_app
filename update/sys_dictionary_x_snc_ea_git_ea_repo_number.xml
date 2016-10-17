@@ -5,12 +5,12 @@
         <array>false</array>
         <attributes/>
         <audit>false</audit>
-        <calculation>(function calculatedFieldValue(current) {
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
 
 	// Add your code here
 	return '';  // return the calculated value
 
-})(current);</calculation>
+})(current);]]></calculation>
         <choice/>
         <choice_field/>
         <choice_table/>
@@ -51,8 +51,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>ea</sys_created_by>
         <sys_created_on>2016-10-17 14:30:24</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>745b00d14fe2e2402ce07db28110c7a1</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cfc698d1b76a220077adaebe44af82f7</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Number</sys_name>
         <sys_package display_value="ea git" source="x_snc_ea_git">4f4b84dd4fa2e2402ce07db28110c7aa</sys_package>
@@ -60,8 +60,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="ea git">4f4b84dd4fa2e2402ce07db28110c7aa</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_ea_git_ea_repo_number</sys_update_name>
-        <sys_updated_by>ea</sys_updated_by>
-        <sys_updated_on>2016-10-17 14:30:24</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2016-10-17 15:20:33</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

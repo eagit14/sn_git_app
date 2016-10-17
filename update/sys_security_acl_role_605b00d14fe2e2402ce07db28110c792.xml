@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>ea</sys_created_by>
         <sys_created_on>2016-10-17 14:30:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>605b00d14fe2e2402ce07db28110c792</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_ea_git_ea_repo.x_snc_ea_git.user</sys_name>

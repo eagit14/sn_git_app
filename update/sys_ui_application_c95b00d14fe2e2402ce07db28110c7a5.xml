@@ -9,8 +9,9 @@
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>ea</sys_created_by>
         <sys_created_on>2016-10-17 14:30:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>c95b00d14fe2e2402ce07db28110c7a5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ea git</sys_name>
