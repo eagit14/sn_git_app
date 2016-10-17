@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <key>Successfully created new branch '{0}' to source control</key>
+        <language>en</language>
+        <message>Successfully created new branch '{0}' to source control</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>ea</sys_created_by>
+        <sys_created_on>2016-10-17 15:02:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4cb214954fe2e2402ce07db28110c7e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Successfully created new branch '{0}' to source control</sys_name>
+        <sys_package display_value="ea git" source="x_snc_ea_git">4f4b84dd4fa2e2402ce07db28110c7aa</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ea git">4f4b84dd4fa2e2402ce07db28110c7aa</sys_scope>
+        <sys_update_name>sys_ui_message_4cb214954fe2e2402ce07db28110c7e5</sys_update_name>
+        <sys_updated_by>ea</sys_updated_by>
+        <sys_updated_on>2016-10-17 15:02:34</sys_updated_on>
+    </sys_ui_message>
+</record_update>
