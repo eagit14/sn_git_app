@@ -6,7 +6,6 @@
             <sys_created_by>ea</sys_created_by>
             <sys_created_on>2016-10-17 14:35:06</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>ad6cc8d14fe2e2402ce07db28110c7ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
@@ -20,7 +19,6 @@
             <sys_created_by>ea</sys_created_by>
             <sys_created_on>2016-10-17 14:35:06</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>216cc8d14fe2e2402ce07db28110c7cb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
@@ -37,7 +35,6 @@
             <sys_created_on>2016-10-17 14:35:06</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>296cc8d14fe2e2402ce07db28110c7ca</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_ea_git_ea_repo</sys_name>
