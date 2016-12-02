@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>cmdb_rel_dashboard</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>ea</sys_created_by>
+        <sys_created_on>2016-11-30 14:39:22</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>69533e5713d76a003a2854c32244b0cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cmdb_rel_dashboard</sys_name>
+        <sys_package display_value="ea git" source="x_snc_ea_git">4f4b84dd4fa2e2402ce07db28110c7aa</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ea git">4f4b84dd4fa2e2402ce07db28110c7aa</sys_scope>
+        <sys_update_name>sys_ui_view_69533e5713d76a003a2854c32244b0cc</sys_update_name>
+        <sys_updated_by>ea</sys_updated_by>
+        <sys_updated_on>2016-11-30 14:39:22</sys_updated_on>
+        <title>Cmdb_rel_dashboard</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
